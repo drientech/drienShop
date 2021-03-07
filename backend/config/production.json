@@ -1,0 +1,4 @@
+{
+  "mongoURI":"mongodb+srv://endri:endri@2020@cluster0.yprwa.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "abc123"
+}
